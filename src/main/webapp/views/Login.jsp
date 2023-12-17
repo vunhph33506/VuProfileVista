@@ -8,7 +8,10 @@
 <meta charset="utf-8" />
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+	integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+	crossorigin="anonymous">
 
 <link
 	href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap"
@@ -79,8 +82,10 @@
 						</form>
 						<p class="w-100 text-center">&mdash; Or Sign In With &mdash;</p>
 						<div class="social d-flex text-center">
-							<a href="#" class="px-2 py-2 mr-md-1 rounded"><span
-								class="ion-logo-facebook mr-2"></span> Facebook</a> <a href="#"
+							<a href="https://www.facebook.com/NongHoangVu04"
+								class="px-2 py-2 mr-md-1 rounded"><span
+								class="ion-logo-facebook mr-2"></span> Facebook</a> <a
+								href="https://www.google.com/login"
 								class="px-2 py-2 ml-md-1 rounded"><span
 								class="ion-logo-twitter mr-2"></span> Google</a>
 						</div>
